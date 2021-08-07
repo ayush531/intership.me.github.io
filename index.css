@@ -1,0 +1,390 @@
+body{
+  background-image: url(aman.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 99%;
+  height: 100vh;
+  background-attachment: fixed;
+}
+.ayush100{
+  color: #fff;
+}
+ *{
+  padding: 0%;
+  margin: 0%;
+}
+.ayush{
+  text-align: center;
+  color: #fff;
+}
+.ayush12{
+  position: relative;
+ left: 3vh;
+}
+.primary{
+  color: blue;
+}
+
+.mm{
+  background-image: linear-gradient(rgb(0, 4, 255),#000);
+  color: #fff;
+  width: 50vh;
+  height: 80px;
+margin: 2vh;
+border-radius: 20px;
+}
+.st{
+text-align: center;
+position: relative;
+right: -20vh;
+top: 2vh;
+}
+.rr{
+background-image: linear-gradient(rgb(0, 4, 255),#000);
+color: #fff;
+width: 50vh;
+height: 80px;
+margin: 2vh;
+border-radius: 20px;
+}
+.cc{
+text-align: center;
+position: relative;
+right: -20vh;
+top: 2vh;
+}
+.indexam{
+  position: relative;
+  right: -100vh;
+}
+.rl{
+  display:flex;
+  flex-direction: column;
+position: relative;
+top: 40px;
+}
+.ayush1234{
+  display:flex;
+  flex-direction: column;
+  position: relative;
+
+  top: 40px;
+}
+#index1234{
+  background-image: linear-gradient(rgb(0, 47, 255),#000);
+  color: #fff;
+}
+#tut1{
+  background-image: linear-gradient(rgb(0, 17, 255),#000);
+  font-family: cursive;
+color: #fff;
+width: 50vh;
+height: 100px;
+}
+.tut11{
+  position: relative;
+  top: -11vh;
+  right: -40vh;
+}
+.tut10{
+  position: relative;
+  right: 50vh;
+}
+.in12{
+  display: flex;
+  flex-direction: column;
+}
+.indexam{
+  position: relative;
+  width: 70vh;
+}
+#t20{
+  position: relative;
+  top: -6vh;
+  right: -15vh;
+
+}
+#wcw{
+position: relative;
+right: -30px;
+font-family: cursive;
+}
+.wwe12{
+  display:flex;
+  flex-direction: column;
+  position: relative;
+  top:30vh;
+ font-family: cursive;
+ text-align: center;
+ color: #fff;
+}
+.gang{
+  position: relative;
+  top:50vh;
+  color: #fff;
+}
+.q10{
+  background-image: l;
+}
+.aaa{
+  color: rgb(0, 89, 255);
+  
+}
+.a13{
+  color: #fff;
+  position: relative;
+  top: 100vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  right: -40vh;
+}
+
+.right{
+  position: relative;
+  top: 120vh;
+  color: #fff;
+}
+.m10{
+  background: linear-gradient(rgb(0, 4, 255),#000);
+  width: 50vh;
+  margin: 2vh;
+  border: #fff 3px solid;
+  border-radius: 12px;
+  position: relative;
+  right: -20vh;
+}
+.aman
+{
+  position: relative;
+  top: 140vh;
+  right: -30vh;
+  color: #fff;
+}
+#tut2{
+background-image: linear-gradient(rgb(0, 17, 255),#000);
+font-family: cursive;
+color: #fff;
+width: 50vh;
+height: 100px;
+position: relative;
+top: 20vh;
+right: -40vh;
+}
+#tut3{
+  font-family: cursive;
+  position: relative;
+top: 50vh;
+}
+.neelu{
+  position: relative;
+  top: 200vh;
+  color: #fff;
+}
+.reema{
+  position: relative;
+  top: 19vh;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.sita{
+  position: relative;
+  top: 20vh;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+
+}
+.mira{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.gita{
+  background-image: linear-gradient(rgb(0, 4, 255) ,#000);
+  margin: 9vh;
+border-radius: 20px;
+width: 50vh;
+text-align: center;
+
+}
+.gita1{
+  background-image: linear-gradient(rgb(0, 4, 255) ,#000);
+  margin: 9vh;
+border-radius: 20px;
+width: 50vh;
+text-align: center;
+
+}
+.tut-30{
+  position: relative;
+display:flex;
+flex-direction: row;
+justify-content: center;
+}
+  #tut5{
+    background-image: linear-gradient(rgb(0, 17, 255),#000);
+    font-family: cursive;
+    color: #fff;
+    width: 50vh;
+    height: 100px;
+    position: relative;
+    top: 20vh;
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+ 
+}
+#tut20{
+  text-decoration: line-through;
+  margin: 2vh;
+}
+.tut32{
+  position: relative;
+  top: 40vh;
+}
+
+.tut31{
+  position: relative;
+  top: 60vh;
+}
+.tut50{
+  position: relative;
+  top: 90vh;
+}
+.tut51{
+  position: relative;
+  top: 110vh;
+  display: flex;
+  justify-content: center;
+}
+.tut55{
+  position: relative;
+  top: 130vh;
+  display:flex;
+  flex-direction:column;
+}
+.tut55{
+  position: relative;
+  top: 130vh;
+  display:flex;
+  flex-direction:column;
+}
+.tut61{
+  position: relative;
+  top: 150vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border: solid 4px #fff;
+  border-radius: 30px;
+  width: 190vh;
+}
+.tut65{
+  position: relative;
+  top: 170vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.shalu{
+  position: relative;
+  top: 190vh;
+  background-color: #fff;
+  width: 80vh;
+  height: 100vh;
+  border-radius: 20px;
+color: #000;
+}
+.tut68{
+  font-size: 50px;
+}
+.tut67{
+  font-size: 20px;
+  text-decoration: line-through;
+}
+
+.div-block-14{
+  font-size: 25px;
+}
+.text-block-13{
+  font-size: 25px;
+ 
+}
+.text-block-15{
+  font-size: 25px;
+ position: relative;
+ top: 90px;
+}
+
+
+#tut70{
+  position: relative;
+  top: 20vh;
+  right: -13vh;
+
+  background-image: linear-gradient(rgb(0, 17, 255),#000);
+  font-family: cursive;
+color: #fff;
+width: 50vh;
+height: 100px;
+}
+.tut75{
+  position: relative;
+  top: 190vh;
+right: -20px;
+}
+.tut66{
+  display: flex;
+  flex-direction: row;
+  margin: 2px;
+position: relative;
+justify-content: center;
+}
+
+.tut91{
+  position: relative;
+  top: 250vh;
+}
+.anita{
+  position: relative;
+  top: 250vh;
+  display: flex;
+  flex-direction:column;
+}
+.tut101{
+  position: relative;
+  top: 290vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.tut201{
+  font-size: 13px;
+  position: relative;
+  top: 310vh;
+}
+.tut301{
+  font-family: cursive;
+  background-image: linear-gradient(rgb(0, 26, 255),#000);
+  display: flex;
+  flex-direction:column;
+  text-align: center;
+  margin: 3vh;
+}
+#tut701{
+   
+    background-image: linear-gradient(rgb(0, 17, 255),#000);
+    font-family: cursive;
+    color: #fff;
+    width: 50vh;
+    height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  right: -70vh;
+}
